@@ -8,5 +8,7 @@
     "vscodium": "https://github.com/VSCodium/vscodium/releases/download/1.109.31074/VSCodiumSetup-x64-1.109.31074.exe",
     "telegram": "https://github.com/telegramdesktop/tdesktop/releases/download/v6.5.1/tsetup-x64.6.5.1.exe",
     "prism-launcher": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.2/PrismLauncher-Windows-MSVC-Setup-10.0.2.exe",
-    "vlc": "https://videolan.ip-connect.info/vlc/3.0.23/win32/vlc-3.0.23-win32.exe"
+    "vlc": "https://videolan.ip-connect.info/vlc/3.0.23/win32/vlc-3.0.23-win32.exe",
+    "steam": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+    "rufus": "https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12.exe"
 }
