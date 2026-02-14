@@ -10,5 +10,6 @@
     "prism-launcher": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.2/PrismLauncher-Windows-MSVC-Setup-10.0.2.exe",
     "vlc": "https://videolan.ip-connect.info/vlc/3.0.23/win32/vlc-3.0.23-win32.exe",
     "steam": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
-    "balena-etcher": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4.Setup.exe"
+    "balena-etcher": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4.Setup.exe",
+    "krita": "https://download.kde.org/stable/krita/5.2.15/krita-x64-5.2.15-setup.exe"
 }
