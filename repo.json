@@ -2,5 +2,6 @@
     "vscode": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/b6a47e94e326b5c209d118cf0f994d6065585705/VSCodeSetup-x64-1.109.3.exe",
     "sharex": "https://github.com/ShareX/ShareX/releases/download/v19.0.2/ShareX-19.0.2-setup.exe",
 	"obs-studio": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64-Installer.exe",
-	"7zip": "https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe"
+	"7zip": "https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe",
+	"qbittorrent": "https://altushost-swe.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-5.1.4/qbittorrent_5.1.4_x64_setup.exe?viasf=1"
 }
