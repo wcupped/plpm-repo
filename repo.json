@@ -12,5 +12,5 @@
     "steam": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
     "balena-etcher": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4.Setup.exe",
     "krita": "https://download.kde.org/stable/krita/5.2.15/krita-x64-5.2.15-setup.exe",
-    "epicgames": "https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.1.5.msi?launcherfilename=EpicInstaller-19.1.5.msi"
+    "spotify": "https://download.scdn.co/SpotifySetup.exe"
 }
