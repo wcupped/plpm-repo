@@ -1,0 +1,28 @@
+[
+    {
+        "name": "firefox",
+        "version": "122.0",
+        "description": "Firefox web browser by Mozilla",
+        "author": "Mozilla Foundation",
+        "license": "MPL-2.0",
+        "category": "web-browser",
+        "installerUrl": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US",
+        "installerSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "installerType": "exe",
+        "silentArgs": "/S",
+        "tags": ["browser", "web", "open-source"]
+    },
+    {
+        "name": "vscode",
+        "version": "1.85.0",
+        "description": "Visual Studio Code - Code Editor",
+        "author": "Microsoft",
+        "license": "MIT",
+        "category": "development",
+        "installerUrl": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64",
+        "installerSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "installerType": "exe",
+        "silentArgs": "/VERYSILENT",
+        "tags": ["editor", "development", "programming"]
+    }
+]
