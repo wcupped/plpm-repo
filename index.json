@@ -30,7 +30,7 @@
         "version": "8.9.1",
         "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.",
         "author": "Don Ho",
-        "license" "GPL",
+        "license": "GPL",
         "category": "text-editor",
         "installerUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.1/npp.8.9.1.Installer.x64.exe",
         "installerSha256": "0000000000000000000000000000000000000000000000000000000000000000",
